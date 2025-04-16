@@ -91,8 +91,7 @@ onMounted(() => {
               window.location.reload(); // 刷新页面
               }, 1000);
             }
-            this.class_id = "未知";
-            this.confidence = "未知";
+
         }
       }
         // 处理返回的图片数据
