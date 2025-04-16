@@ -79,7 +79,7 @@ npm rum serve // 启动应用，启动前端项目前先启动后端应用
 http://localhost:8080 // 在浏览器访问服务器地址即可
 ```
 
-## 后端项目请参考以下地址
+## 后端项目与详细信息请参考以下地址
 ```plain
 https://github.com/GonnaBeStrong/CT-Scanning
 ```
